@@ -2,14 +2,14 @@ url: codejamteam2.github.io
 baseurl: /
 
 # Site settings
-title: DaveTSS
+title: Mental health
 email: webcc.business@gmail.com
 description: "This is a personal website example."
 
 
 # Team names, titles and social links
 people:
-- name: Mental health 
+- name: DaveTSS
   pic: 1
   position: Lead Designer
   social:
